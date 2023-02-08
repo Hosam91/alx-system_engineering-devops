@@ -1,0 +1,4 @@
+#!/bin/bash
+ABSOLUTE_PATH="$(pwd)"
+echo "$ABSOLUTE_PATH"
+
